@@ -1,0 +1,6 @@
+emp-agents==0.1.2.post4
+jupyter==1.0.0
+notebook>=7.0.0
+matplotlib>=3.7.0 
+mypy==1.13.0
+nbqa==1.9.1
