@@ -1,6 +1,10 @@
-emp-agents==0.1.2.post4
+git+https://github.com/empyrealapp/emp-agents@fix_conv_history_management#egg=emp-agents
+black==24.10.0
 jupyter==1.0.0
 notebook>=7.0.0
 matplotlib>=3.7.0 
 mypy==1.13.0
 nbqa==1.9.1
+openai==1.57.0
+pydantic==2.9.2
+python-dotenv==1.0.1
